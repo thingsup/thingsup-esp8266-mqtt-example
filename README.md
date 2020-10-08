@@ -1,4 +1,4 @@
-# Thingsup : ESP8266-NodeMCU-MQTT-Example
+# Thingsup : ESP8266-NodeMCU-Arduino-MQTT-Example
 
 This example demonstrates Thingsup MQTT Service with ESP8266.
 
